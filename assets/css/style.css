@@ -1,0 +1,31 @@
+body{
+    color: blueviolet;
+    font-family: sans-serif;
+    font-style: italic;
+}
+.container{
+display: flex;
+align-items: center;
+justify-content: center;
+font-size: 30px;
+
+width: 100vw;
+height: 100vh;
+margin: 0;
+border: 0;
+
+
+
+}
+.container-wrapper {
+    display: flex;
+    position: absolute;
+    align-items: center;
+    justify-content: center;
+    text-align:center;
+    letter-spacing: 3px;
+    flex-direction: row;
+    top: 370px;
+    
+}
+
